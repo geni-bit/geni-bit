@@ -10,19 +10,14 @@ I’m an undergraduate Computer Science student passionate about designing **rel
 
 - 🔧 **Tech Stack:** Python • C++ • Java  
 - ☁️ **Interests:** Backend Engineering • DevOps • Cloud Systems  
-- 🚀 **Goal:** Build scalable, maintainable systems that empower teams and users.  
+- 🚀 **Goal:** Build scalable, maintainable systems that empower teams and users.
+- ⌛️ **Hobbies:** Boxing• Biking • Gardening • Anime & Manga 
 
 ---
 
 ### 🧠 Current Focus  
 🌱 Improving my understanding of **backend architectures**, **containerization**, and **CI/CD pipelines**.  
 🔍 Exploring **open-source collaboration** and **clean coding practices**.  
-
----
-
-### 🌿 Hobbies
-When I’m not developing, I like to challenge my mind and body through:  
-🥊 **Boxing** • 🚴‍♂️ **Biking** • 🌸 **Gardening** • 🎬 **Anime & Manga**  
 
 ---
 
