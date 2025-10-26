@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I’m Genesis Hernandez  
+### B.A. Computer Science Student @ St. Olaf College  
 
-<!--
-**geni-bit/geni-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Backend Software Engineer** 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me  
+I’m an undergraduate Computer Science student passionate about designing **reliable backend systems** and exploring **DevOps workflows** that improve scalability and developer efficiency.  
+
+- 🔧 **Tech Stack:** Python • C++ • Java  
+- ☁️ **Interests:** Backend Engineering • DevOps • Cloud Systems  
+- 🚀 **Goal:** Build scalable, maintainable systems that empower teams and users.  
+
+---
+
+### 🧠 Current Focus  
+🌱 Improving my understanding of **backend architectures**, **containerization**, and **CI/CD pipelines**.  
+🔍 Exploring **open-source collaboration** and **clean coding practices**.  
+
+---
+
+### 🌿 Hobbies
+When I’m not developing, I like to challenge my mind and body through:  
+🥊 **Boxing** • 🚴‍♂️ **Biking** • 🌸 **Gardening** • 🎬 **Anime & Manga**  
+
+---
+
+### 📫 Connect With Me  
+<p align="left">
+  <a href="https://github.com/geni-bit" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="http://linkedin.com/in/genesis-hernandez-a60092265/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
