@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Genesis Hernandez  
 ### B.A. Computer Science Student @ St. Olaf College  
 
-🎯 **Aspiring Backend Software Engineer** 
+🎯 **Aspiring Full Stack Software Engineer** 
 
 ---
 
@@ -9,7 +9,7 @@
 I’m an undergraduate Computer Science student passionate about designing **reliable backend systems** and exploring **DevOps workflows** that improve scalability and developer efficiency.  
 
 - 🔧 **Tech Stack:** Python • C++ • Java  
-- ☁️ **Interests:** Backend Engineering • DevOps • Cloud Systems  
+- ☁️ **Interests:** Backend & Frontend Engineering • Product • Cloud Systems  
 - 🚀 **Goal:** Build scalable, maintainable systems that empower teams and users.
 - ⌛️ **Hobbies:** Boxing• Biking • Gardening • Anime & Manga 
 
