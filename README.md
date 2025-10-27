@@ -9,7 +9,7 @@
 I’m an undergraduate Computer Science student passionate about designing **reliable backend systems** and exploring **DevOps workflows** that improve scalability and developer efficiency.  
 
 - 🔧 **Tech Stack:** Python • C++ • Java  
-- ☁️ **Interests:** Backend & Frontend Engineering • Product • Cloud Systems  
+- ☁️ **Interests:** Full Stack Engineering • Product • DevOps • Cloud Systems  
 - 🚀 **Goal:** Build scalable, maintainable systems that empower teams and users.
 - ⌛️ **Hobbies:** Boxing• Biking • Gardening • Anime & Manga 
 
