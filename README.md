@@ -16,7 +16,7 @@ I’m an undergraduate Computer Science student passionate about designing **rel
 ---
 
 ### 🧠 Current Focus  
-🌱 Improving my understanding of **Full Stack framework**, architectures**, and **Relational databases**. 
+🌱 Improving my understanding of **Full Stack framework**, **architectures**, and **Relational databases**. 
 🔍 Exploring **open-source collaboration** and **clean coding practices**.  
 
 ---
