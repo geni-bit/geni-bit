@@ -9,8 +9,8 @@ I’m a Computer Science and Statistics & Data Science student passionate about 
 
 Feel free to check out my portfolios and projects in Computer Science and Data Science! 
 
-* Computer Science
-* Data Science 
+* [Computer Science](https://github.com/geni-bit/CS-Portfolio)
+* [Data Science](https://github.com/geni-bit/DSI-Portfolio)
 
 ### 📫 Connect With Me  
 <p align="left">
