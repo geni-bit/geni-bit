@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Genesis Hernandez  
+# Hi, I’m Genesis Hernandez!
 ### B.A. Computer Science Student @ St. Olaf College  
 
 🎯 **Aspiring Full Stack Software Engineer** 
