@@ -1,6 +1,16 @@
 # Hi, I’m Genesis Hernandez!
-### B.A. Computer Science Student @ St. Olaf College  
+### B.A. Computer Science and Statstics & Data Science Student @ St. Olaf College  
 
+## About Me
+
+I’m a Computer Science and Statistics & Data Science student passionate about data analysis, software development, and problem-solving through technology.
+
+## Portfolios: 
+
+Feel free to check out my portfolios and projects in Computer Science and Data Science! 
+
+* Computer Science
+* Data Science 
 
 ### 📫 Connect With Me  
 <p align="left">
