@@ -3,7 +3,7 @@
 
 ## About Me
 
-I’m a Computer Science and Statistics & Data Science student passionate about data analysis, software development, and problem-solving through technology.
+I’m a Computer Science and Statistics & Data Science student passionate about Data Analysis, Information Systems(IT), Software Development, and problem-solving through technology.
 
 ## Portfolios: 
 
