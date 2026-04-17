@@ -21,10 +21,10 @@ _Honors & Awards_: Posse Foundation Full-Tuition Leadership Scholarship (2024 �
 
 ## Work Experience
 
-* IT Helpdesk Student Technology Consulting Assistant – St. Olaf College
+** IT Helpdesk Student Technology Consulting Assistant – St. Olaf College
 March 2026 – Present
 
-* Learning & Development Pathfinder Intern – Intuit Credit Karma
+** Learning & Development Pathfinder Intern – Intuit Credit Karma
 June 2025 – August 2025
 
 Languages: Python, R, SQL, C#, C++
