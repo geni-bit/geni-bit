@@ -20,14 +20,14 @@ _Relevant Coursework_: Introduction to Computer Science, Data Structures & Algor
 _Honors & Awards_: Posse Foundation Full-Tuition Leadership Scholarship (2024 – 2028)
 
 ## Work Experience
+**IT Helpdesk Student Technology Consulting Assistant** – St. Olaf College  
+March 2026 – Present  
 
-** IT Helpdesk Student Technology Consulting Assistant – St. Olaf College
-March 2026 – Present
+**Learning & Development Pathfinder Intern** – Intuit Credit Karma  
+June 2025 – August 2025  
 
-** Learning & Development Pathfinder Intern – Intuit Credit Karma
-June 2025 – August 2025
-
-Languages: Python, R, SQL, C#, C++
+## Skills
+**Languages:** Python, R, SQL, C#, C++  
 
 ## Project Portfolios: 
 
