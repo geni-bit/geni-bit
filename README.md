@@ -13,9 +13,7 @@ St. Olaf College
 B.A. in Computer Science and Statistics & Data Science
 _Expected Graduation_: May 2028
 
-Relevant Coursework: Data Structures, Algorithms, Software Design, Cybersecurity, Statistics, Machine Learning
-
-_Relevant Coursework_: Introduction to Computer Science, Data Structures & Algorithms, Software Design, Hardware Design, Cybersecurity, Statistics, Data Science, Machine Learning
+_Relevant Coursework_: Data Structures & Algorithms, Software Design, Hardware Design, Cybersecurity, Statistics, Data Science, Machine Learning
 
 _Honors & Awards_: Posse Foundation Full-Tuition Leadership Scholarship (2024 – 2028)
 
