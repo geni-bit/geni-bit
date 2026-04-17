@@ -3,9 +3,33 @@
 
 ## About Me
 
-I’m a Computer Science and Statistics & Data Science student passionate about Data Analysis, Information Systems(IT), Software Development, and problem-solving through technology.
+I’m a Computer Science and Statistics & Data Science student interested in data analysis, software development, and building practical data-driven systems.
 
-## Portfolios: 
+# Basic Information
+
+## 🎓 Education
+
+St. Olaf College
+B.A. in Computer Science and Statistics & Data Science
+_Expected Graduation_: May 2028
+
+Relevant Coursework: Data Structures, Algorithms, Software Design, Cybersecurity, Statistics, Machine Learning
+
+_Relevant Coursework_: Introduction to Computer Science, Data Structures & Algorithms, Software Design, Hardware Design, Cybersecurity, Statistics, Data Science, Machine Learning
+
+_Honors & Awards_: Posse Foundation Full-Tuition Leadership Scholarship (2024 – 2028)
+
+## Work Experience
+
+* IT Helpdesk Student Technology Consulting Assistant – St. Olaf College
+March 2026 – Present
+
+* Learning & Development Pathfinder Intern – Intuit Credit Karma
+June 2025 – August 2025
+
+Languages: Python, R, SQL, C#, C++
+
+## Project Portfolios: 
 
 Feel free to check out my portfolios and projects in Computer Science and Data Science! 
 
